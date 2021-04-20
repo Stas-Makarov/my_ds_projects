@@ -11,4 +11,4 @@
 Проект сдан.
 
 ### Инструменты и методы, используемые в реализации:
-pandas, matplotlib.pyplot, numpy, seaborn, scipy.stats.
+pandas, matplotlib, numpy, seaborn, scipy.stats.
